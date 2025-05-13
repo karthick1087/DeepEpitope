@@ -1,7 +1,7 @@
 
 # 📦 DeepEpitope
 
-**DeepEpitope** is a deep learning-powered tool for predicting linear B-cell epitopes from protein sequences using transformer-based protein embeddings from **ESM-2**. It enables scalable and accurate epitope discovery for vaccine design and immunodiagnostics.
+**DeepEpitope** is a deep learning-powered tool for predicting linear B-cell epitopes from protein sequences using transformer-based protein embeddings from **ESM-2**. It enables scalable and accurate epitope discovery for cancer vaccine design and immunodiagnostics.
 
 ---
 
