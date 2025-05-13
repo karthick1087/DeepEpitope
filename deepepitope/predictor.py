@@ -7,6 +7,8 @@ import joblib
 import pandas as pd
 import numpy as np
 from transformers import EsmTokenizer, EsmModel
+from transformers import logging as hf_logging
+hf_logging.set_verbosity_error()
 from tqdm import tqdm
 from Bio import SeqIO
 import warnings
