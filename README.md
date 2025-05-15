@@ -117,7 +117,7 @@ Each row contains:
 - Input features are 1280-dim mean embeddings
   
 ## 📊 Benchmarking Comparison
-![ROC Comparison](roc_deep_vs_classical.png)
+![ROC Comparison](ROC.png)
 ---
 
 ## 🧠 Citation
