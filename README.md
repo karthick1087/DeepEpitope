@@ -117,7 +117,9 @@ Each row contains:
 - Input features are 1280-dim mean embeddings
   
 ## 📊 Benchmarking Comparison
-![ROC Comparison](ROC.png,ROC-2.png)
+![ROC Curve 1](ROC.png)
+
+![ROC Curve 2](ROC-2.png)
 ---
 
 ## 🧠 Citation
