@@ -115,6 +115,8 @@ Each row contains:
 - Epitope classifier: fully connected PyTorch neural network
 - Trained on curated epitope/non-epitope data
 - Input features are 1280-dim mean embeddings
+  
+## 📊 Benchmarking Comparison
 ![ROC Comparison](roc_deep_vs_classical.png)
 ---
 
