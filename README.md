@@ -142,4 +142,4 @@ Please open an issue or pull request.
 
 ## 📧 Contact
 
-For questions or collaboration, contact [karthick@ibioinformatics.org](mailto:your.email@example.com)
+For questions or collaboration, contact [karthick@ibioinformatics.org](mailto:karthick@ibioinformatics.org)
