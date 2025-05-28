@@ -125,10 +125,10 @@ Each row contains:
 If you use **DeepEpitope** in your research, please cite:
 
 ```bibtex
-{DeepEpitope: Leveraging Transformation-Based protein Embeddings for Accurate linear Cancer B-cell Epitope Identification
+DeepEpitope: Leveraging Transformation-Based protein Embeddings for Accurate linear Cancer B-cell Epitope Identification
 Dhanushkumar T, Pasupuleti Visweswara Rao, Karthick Vasudevan
 doi: https://doi.org/10.1101/2025.05.23.655884
-}
+
 ```
 
 ---
