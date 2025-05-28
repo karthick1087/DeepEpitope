@@ -125,11 +125,9 @@ Each row contains:
 If you use **DeepEpitope** in your research, please cite:
 
 ```bibtex
-@software{vasudevan_deepepitope_2025,
-  author = {Karthick Vasudevan},
-  title = {DeepEpitope: A Deep Learning Framework for B-cell Epitope Prediction Using ESM2},
-  year = {2025},
-  url = {https://github.com/yourusername/DeepEpitope}
+{DeepEpitope: Leveraging Transformation-Based protein Embeddings for Accurate linear Cancer B-cell Epitope Identification
+Dhanushkumar T, Pasupuleti Visweswara Rao, Karthick Vasudevan
+doi: https://doi.org/10.1101/2025.05.23.655884
 }
 ```
 
