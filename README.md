@@ -1,11 +1,11 @@
 
-# 📦 DeepEpitope
+# DeepEpitope
 
 **DeepEpitope** is a deep learning-powered tool for predicting linear B-cell epitopes from protein sequences using transformer-based protein embeddings from **ESM-2**. It enables scalable and accurate epitope discovery for cancer vaccine design and immunodiagnostics.
 
 ---
 
-## 🚀 Features
+##  Features
 
 - Uses [ESM-2](https://github.com/facebookresearch/esm) transformer embeddings
 - Fully automated peptide extraction and scoring
@@ -16,16 +16,16 @@
 
 ---
 
-## 📥 Installation
+##  Installation
 
-### 🔧 Requirements
+### Requirements
 
 - Python ≥ 3.7
 - PyTorch ≥ 1.10
 - Transformers ≥ 4.26
 - Internet connection for the first run (to download `facebook/esm2_t33_650M_UR50D`)
 
-### 📦 Install from source
+### Install from source
 
 Clone and install:
 
@@ -109,18 +109,18 @@ Each row contains:
 
 ---
 
-## 📊 Model Details
+## Model Details
 
 - Embeddings from **facebook/esm2_t33_650M_UR50D**
 - Epitope classifier: fully connected PyTorch neural network
 - Trained on curated epitope/non-epitope data
 - Input features are 1280-dim mean embeddings
   
-## 📊 Benchmarking Comparison
+## Benchmarking Comparison
 ![ROC Curve 1](ROC-FINAL.png)
 ---
 
-## 🧠 Citation
+## Citation
 
 If you use **DeepEpitope** in your research, please cite:
 
@@ -133,7 +133,7 @@ doi: https://doi.org/10.1101/2025.05.23.655884
 
 ---
 
-## 🤝 Contributing
+## Contributing
 
 Contributions, feature requests, and bug reports are welcome!  
 Please open an issue or pull request.
