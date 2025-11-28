@@ -39,9 +39,9 @@ After installation, the command-line tool `DeepEpitope` becomes available.
 
 ---
 
-## 🧪 Usage
+## Usage
 
-### 🔍 Basic Command
+### Basic Command
 
 ```bash
 DeepEpitope your_protein.fasta
@@ -55,7 +55,7 @@ This will:
 
 ---
 
-### ⚙️ Full Command-Line Options
+### Full Command-Line Options
 
 | Option | Description |
 |--------|-------------|
