@@ -73,7 +73,7 @@ This will:
 
 ---
 
-### 🧬 Example
+### Example
 
 ```bash
 DeepEpitope example.fasta \
@@ -88,7 +88,7 @@ DeepEpitope example.fasta \
 
 ---
 
-## 📂 Output
+## Output
 
 Two files are generated:
 
